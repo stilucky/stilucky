@@ -6,5 +6,5 @@ My local server:
 - Ram: 256GB ECC DDR4 
 - VGA: No 
 - NVMe: Samsung 970 Evo 2TB x3 
-- PSU: 650W 80gold AIO ID colling zoomflow 240-xt 
+- PSU: 650W 80gold
 - Wan: 1Gbps*2
