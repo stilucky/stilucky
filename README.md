@@ -1,4 +1,4 @@
-Hi there 👋 I'm Stilucky 🇻🇳              
+Hi there 👋 I'm Stilucky 🇻🇳               
                
 My local server:   
 - Chip: 2x Xeon E5 2686v4  
