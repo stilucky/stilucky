@@ -9,7 +9,7 @@ My local server:
 - PSU: 650W 80gold
 - Wan: 1Gbps*2  
   
-My node:
+My node: 
 
 - Muon network
 - Shardeum
