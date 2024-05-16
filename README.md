@@ -8,7 +8,7 @@ My local server:
 - NVMe: Samsung 970 Evo 2TB x3  
 - PSU: 650W 80gold
 - Wan: 1Gbps*2    
-  
+   
 My node: 
  
 - Muon network
