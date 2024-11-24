@@ -22,5 +22,6 @@ My node:
 - Subspace network
 - Erbie network
 - Elixir
-- 
+- PWR Chain
+- Kopi
 
